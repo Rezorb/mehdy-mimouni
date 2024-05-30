@@ -13,7 +13,7 @@ const Skills = () => {
               <h3 className="text-3xl font-bold">{item.title}</h3>
               <p className="text-2xl">{item.description}</p>
               {index < data.domainCompetences.length - 1 && (
-                <hr className="border-t-2 border-purple-700 my-4 ml-40 mb-5" style={{ width: '20%' }} />
+                <hr className="border-t-2 border-purple-700 my-4 ml-28 mb-5" style={{ width: '20%' }} />
               )}
             </li>
           ))}
