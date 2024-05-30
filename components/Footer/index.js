@@ -10,11 +10,11 @@ const Footer = ({}) => {
         <div>
           <h1 className="text-5xl text-bold">CONTACT</h1>
           <div className="mt-10">
-            <h1 className="text-xl tablet:text-3xl laptop:text-6xl laptopl:text-4xl text-bold">
+            <p className="text-xl tablet:text-3xl laptop:text-4xl laptopl:text-4xl text-bold">
               Je vous invite à découvrir ci-dessous mes coordonnées. Vous pouvez
               m&apos;envoyer un e-mail ou me contacter directement sur les
               réseaux sociaux.
-            </h1>
+            </p>
             {/* <Button type="primary">Schedule a call</Button> */}
             <div className="mt-10">
               <Socials />

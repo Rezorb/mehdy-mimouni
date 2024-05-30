@@ -128,7 +128,7 @@ export default function Home() {
               className="myself laptop:ml-10 mt-5 laptop:mt-0 rounded-[10px]"
               src="https://i.imgur.com/ySAOyan.png"
               alt="ngMoi"
-              style={{ height: "450px" }}
+              style={{ maxHeight: "450px" }}
             ></img>
           </div>
         </div>
