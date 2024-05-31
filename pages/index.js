@@ -116,8 +116,10 @@ export default function Home() {
           <Socials className="mt-2 laptop:mt-5" />
         </div>
 
-        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="tablet:m-10 text-5xl text-bold">À PROPOS</h1>
+        <div className="mt-20 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
+          <h1 className="mb-5 tablet:m-10 text-3xl tablet:text-4xl laptop:text-5xl font-bold">
+            À PROPOS
+          </h1>
           <div className="flex flex-col laptop:flex-row items-center justify-center tablet:m-10">
             <p className="mt-2 text-2xl laptop:text-3xl w-full laptop:w-3/5">
               {data.aboutpara}
@@ -133,8 +135,10 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="tablet:m-10 text-5xl text-bold">MES PROJETS</h1>
+        <div className="mt-20 laptop:mt-40 p-2 laptop:p-0" ref={workRef}>
+          <h1 className="tablet:m-10 text-3xl tablet:text-4xl laptop:text-5xl font-bold">
+            MES PROJETS
+          </h1>
 
           <Filter
             categories={categories}
@@ -155,8 +159,10 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={skillRef}>
-          <h1 className="tablet:m-10 text-5xl text-bold pb-10">MES COMPÉTENCES</h1>
+        <div className="mt-20 laptop:mt-40 p-2 laptop:p-0" ref={skillRef}>
+          <h1 className="tablet:m-10 text-3xl tablet:text-4xl laptop:text-5xl font-bold pb-10">
+            MES COMPÉTENCES
+          </h1>
           <Skills />
         </div>
 

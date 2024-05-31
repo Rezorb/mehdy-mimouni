@@ -6,10 +6,10 @@ import Socials from "../Socials";
 const Footer = ({}) => {
   return (
     <>
-      <div className="mt-5 laptop:mt-40 p-2 laptop:p-0">
+      <div className="mt-20 laptop:mt-40 p-2 laptop:p-0">
         <div>
-          <h1 className="text-5xl text-bold">CONTACT</h1>
-          <div className="mt-10">
+          <h1 className="tablet:m-10 text-3xl tablet:text-4xl laptop:text-5xl font-bold pb-10">CONTACT</h1>
+          <div className="">
             <p className="text-xl tablet:text-3xl laptop:text-4xl laptopl:text-4xl text-bold">
               Je vous invite à découvrir ci-dessous mes coordonnées. Vous pouvez
               m&apos;envoyer un e-mail ou me contacter directement sur les
