@@ -34,7 +34,7 @@
     {
       "id": "1",
       "title": "Booki",
-      "description": "HTML & CSS",
+      "description": "HTML & CSS - Élaboration d'un site internet de location d'hébergements en suivants les critères d'une maquette Figma. Création de filtres, manipulation de la flexbox et gestion du responsive design.",
       "imageSrc": "https://i.imgur.com/jQcgqvx.png",
       "url": "https://github.com/Rezorb/Projet_2_Mehdy",
       "category": "HTML - CSS"
@@ -42,7 +42,7 @@
     {
       "id": "2",
       "title": "Sophie Bluel",
-      "description": "JAVASCRIPT",
+      "description": "JAVASCRIPT - Création d'un site web dynamique, nécessité de coder la page des travaux ainsi que la page de connexion. Une modale s'ouvre sur chaque photographie et permet aaux utilisateurs d'effectuer certaines fonctionnalités.",
       "imageSrc": "https://imgur.com/7mhuTgC.png",
       "url": "https://github.com/Rezorb/Projet_3_Mehdy",
       "category": "JAVASCRIPT"
@@ -50,7 +50,7 @@
     {
       "id": "3",
       "title": "Nina Carducci",
-      "description": "DÉBOGAGE & OPTIMISATION DE PERFORMANCES",
+      "description": "DÉBOGAGE & OPTIMISATION DE PERFORMANCES - Évaluation des performances et de l'accessibilité du site, identification des problèmes de chargement et de référencement. Amélioration de la structure du code et création d'un rapport Lighthouse.",
       "imageSrc": "https://imgur.com/UKX7TTJ.png",
       "url": "https://github.com/Rezorb/Projet_5_Mehdy",
       "category": "HTML - CSS"
@@ -58,7 +58,7 @@
     {
       "id": "4",
       "title": "Kasa",
-      "description": "REACT",
+      "description": "REACT - Implémentation d'un front-end en utilisant React & React Router. Configuration de la navigation entre les pages de l'application et création de composants. Récupération dynamiques de données d'un fichier JSON et utilisation de NODEJS pour l'exécution du code.",
       "imageSrc": "https://imgur.com/OVF7xoI.png",
       "url": "https://github.com/Rezorb/Projet_6_Mehdy",
       "category": "REACT"
@@ -66,7 +66,7 @@
     {
       "id": "5",
       "title": "Mon Vieux Grimoire",
-      "description": "NODEJS",
+      "description": "NODEJS - Création d'un serveur avec Express et connexion à une base de données MongoDB. Développement d'opérations CRUD et implémentation d'un système d'authentification sécurisé. Gestion de Mongoose et suivi d'une architecture MVC.",
       "imageSrc": "https://imgur.com/4bfFoxn.png",
       "url": "https://github.com/Rezorb/Projet_7_Mehdy",
       "category": "NODEJS"

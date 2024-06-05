@@ -1,15 +1,15 @@
 /* eslint-disable @next/next/no-img-element */
 import React, { useRef, useState } from "react";
 import Header from "../components/Header";
-import ServiceCard from "../components/ServiceCard";
+// import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
 import WorkCard from "../components/WorkCard";
 import { useIsomorphicLayoutEffect } from "../utils";
 import { stagger } from "../animations";
 import Footer from "../components/Footer";
 import Head from "next/head";
-import Button from "../components/Button";
-import Link from "next/link";
+// import Button from "../components/Button";
+// import Link from "next/link";
 import Cursor from "../components/Cursor";
 import Skills from "../components/Skills";
 import Filter from "../components/Filter";
@@ -113,7 +113,7 @@ export default function Home() {
             </h1>
           </div>
 
-          <Socials className="mt-2 laptop:mt-5" />
+          <Socials className="mt-5" />
         </div>
 
         <div className="mt-20 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
